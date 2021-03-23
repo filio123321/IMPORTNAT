@@ -1,1 +1,1 @@
-!(docs/rickroll.gif)
+![rickroll](docs/rickroll.gif)
